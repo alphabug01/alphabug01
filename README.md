@@ -1,6 +1,6 @@
 - Konichiwa, I am @alphabug01
 - I’m interested in UI/UX designing
-- I’m currently learning Angular8
+- I’m currently learning React
 - I’m looking to collaborate on designing projects
 - How to reach me -> alphabug01@pm.me
 
